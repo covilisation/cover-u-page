@@ -46,7 +46,7 @@ features                                  :
     fontawesome_icon_name                 : key
 
   - title                                 : Health Notifications
-    description                           : Get notified when a close contact has been infected or when the location algorithm matches you with an infected person.
+    description                           : Get notified when a close contact has been infected or when the location algorithm alerts you that you have been in contact to an infected person.
     fontawesome_icon_name                 : bell
 
   - title                                 : Group Organization
