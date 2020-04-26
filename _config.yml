@@ -1,5 +1,5 @@
 #page title
-page_title                                : Cover-U app                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : COVer-U app                                        # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  :  assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :  Cover-U                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  :  COVer-U                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Social and fusion tracking for COVID-19. </br>Protect yourself and the ones you love.
+app_description                           : Social and Fuse location tracking for COVID-19. </br> Participate in order to protect and be protected.
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -34,19 +34,19 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Social Tracking
-    description                           : With Cover-U you can track your contacts, your loved ones and their health status.
+    description                           : With COVer-U you can track your contacts, your loved ones and their health status.
     fontawesome_icon_name                 : user-friends
     
-  - title                                 : Fusion Tracking
-    description                           : The app can track anonymously GPS/BLE/Wifi and calculate the health thread level compared to affected areas and people.
+  - title                                 : Fuse Location Tracking
+    description                           : The app can track anonymously GPS/BLE/Wifi and calculate the health status level compared to affected areas and people.
     fontawesome_icon_name                 : map-marker-alt
 
   - title                                 : Privacy-First
-    description                           : User-sensitive and security-sensitive data never leave the phone.  The user is asked for consent for all data that are stored server-side.
+    description                           : It will follow the regulations regarding Privacy and Sensitive Data handling (GDPR, Terms of Use, Anonymity, Encryption, data will be deleted after 2 weeks period).
     fontawesome_icon_name                 : key
 
   - title                                 : Health Notifications
-    description                           : Get notified when a close contact has been affected by the virus, or when you have been in contact to an affected third person.
+    description                           : Get notified when a close contact has been infected or when the location algorithm matches you with an infected person.
     fontawesome_icon_name                 : bell
 
   - title                                 : Group Organization
@@ -54,7 +54,7 @@ features                                  :
     fontawesome_icon_name                 : users
 
   - title                                 : Set Your Own Health Status
-    description                           : You can set your own health status according to your symptoms and let your loved ones be notified.
+    description                           : You can set your own health status according to your symptoms and let your contacts be notified.
     fontawesome_icon_name                 : heartbeat
 
   - title                                 : Hackathon Winner
@@ -66,7 +66,7 @@ features                                  :
     fontawesome_icon_name                 : globe-europe
 
   - title                                 : Scalable
-    description                           : Cover-U's architecture and implementation has been designed from the ground up to enable worldwide scalability.
+    description                           : COVer-U's architecture and implementation has been designed from the ground up to be used worldwide.
     fontawesome_icon_name                 : globe-europe
 
   - title                                 : # New Feature Title
