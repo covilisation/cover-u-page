@@ -34,11 +34,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Social Tracking
-    description                           : With COVer-U you can track your contacts, your loved ones and their health status.
+    description                           : With COVer-U you can track your contacts, your loved ones, any contact in close proximity and their health status.
     fontawesome_icon_name                 : user-friends
     
   - title                                 : Fuse Location Tracking
-    description                           : The app can track anonymously GPS/BLE/Wifi and calculate the health status level compared to affected areas and people.
+    description                           : The app can track anonymously via GPS/BLE/Wifi/Cell Netwrok and calculate the health status level compared to affected people.
     fontawesome_icon_name                 : map-marker-alt
 
   - title                                 : Privacy-First
@@ -46,7 +46,7 @@ features                                  :
     fontawesome_icon_name                 : key
 
   - title                                 : Health Notifications
-    description                           : Get notified when a close contact has been infected or when the location algorithm alerts you that you have been in contact to an infected person.
+    description                           : Get notified when a contact has been infected or when the location algorithm alerts you that you have been in contact to an infected person.
     fontawesome_icon_name                 : bell
 
   - title                                 : Group Organization
@@ -56,18 +56,6 @@ features                                  :
   - title                                 : Set Your Own Health Status
     description                           : You can set your own health status according to your symptoms and let your contacts be notified.
     fontawesome_icon_name                 : heartbeat
-
-  - title                                 : Hackathon Winner
-    description                           : Winner of the "Ready-to-FastTrack" category of the CroudPolicy Greek Hackathon.
-    fontawesome_icon_name                 : trophy
-
-  - title                                 : EuVsVirus Contestant
-    description                           : Our team is currently participating at the EuVsVirus europe-wide hackathon.
-    fontawesome_icon_name                 : globe-europe
-
-  - title                                 : Scalable
-    description                           : COVer-U's architecture and implementation has been designed from the ground up to be used worldwide.
-    fontawesome_icon_name                 : globe-europe
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
