@@ -38,7 +38,7 @@ features                                  :
     fontawesome_icon_name                 : user-friends
     
   - title                                 : Fuse Location Tracking
-    description                           : The app can track anonymously via GPS/BLE/Wifi/Cell Netwrok and calculate the health status level compared to affected people.
+    description                           : The app can track anonymously via GPS/BLE/Wifi/Cell Networks and calculate the health status level compared to affected people.
     fontawesome_icon_name                 : map-marker-alt
 
   - title                                 : Privacy-First
@@ -50,7 +50,7 @@ features                                  :
     fontawesome_icon_name                 : bell
 
   - title                                 : Group Organization
-    description                           : Organize your contacts into groups with different permissions and notification settings
+    description                           : Organize your contacts into groups with different permissions and notification settings.
     fontawesome_icon_name                 : users
 
   - title                                 : Set Your Own Health Status
